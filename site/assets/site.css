@@ -468,6 +468,68 @@ dialog.detail .framed {
   color: var(--dim);
 }
 
+/* ------------------------------------------------------ personal catalogue */
+
+.catalog-intro {
+  margin: 1em 0 2em;
+  text-align: center;
+}
+
+.catalog-intro h2,
+.catalog-intro p {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.source-slug {
+  font-size: clamp(0.8em, 2.5vw, 1.1em);
+}
+
+.source-slug code {
+  display: inline-block;
+  padding: 0.45em 0.65em;
+  border: 3px solid var(--contrast);
+  background: #fff;
+  overflow-wrap: anywhere;
+}
+
+.catalog-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1em;
+}
+
+.catalog-status {
+  color: var(--dim);
+  font-size: 0.85em;
+}
+
+.catalog-footer {
+  margin-top: 2em;
+  text-align: center;
+  color: var(--dim);
+  font-size: 0.85em;
+}
+
+.catalog-actions {
+  margin: 1.25em 0;
+}
+
+.mod-card {
+  user-select: none;
+}
+
+.mod-card:hover {
+  transform: translateY(-2px);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .mod-card {
+    transition: transform 100ms ease-out;
+  }
+}
+
 .spin::after {
   content: '';
   animation: dots 1.2s steps(4, end) infinite;

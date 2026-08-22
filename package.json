@@ -2,7 +2,7 @@
   "name": "gen1recomp-mod-index",
   "version": "1.0.0",
   "private": true,
-  "description": "Community mod index for the Gen 1 recomp engine",
+  "description": "Personal Gen1Recomp mod index for Ishhodaszi's UI mods",
   "type": "module",
   "engines": { "node": ">=18" },
   "scripts": {
