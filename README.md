@@ -27,6 +27,7 @@ https://piftee.github.io/gen1recomp-mod-index/data/index.json
 - [Modern Bag UI](https://github.com/piftee/gen1recomp-modern-bag-ui)
 - [Modern Party UI](https://github.com/piftee/gen1recomp-modern-party-ui)
 - [Modern PC UI](https://github.com/piftee/gen1recomp-modern-pc-ui)
+- [Modern Pokedex UI](https://github.com/piftee/gen1recomp-modern-pokedex-ui)
 - [Typed Move Colors](https://github.com/piftee/gen1recomp-typed-move-colors)
 
 ## How it stays current
