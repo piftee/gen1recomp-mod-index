@@ -5,6 +5,7 @@ const status = document.querySelector('#catalog-status');
 const empty = document.querySelector('#catalog-empty');
 const dialog = document.querySelector('#mod-detail');
 const closeButton = document.querySelector('#detail-close');
+const displayAuthor = 'Ish';
 
 const absoluteUrl = (value) => (value ? new URL(value, window.location.href).href : null);
 
@@ -47,7 +48,7 @@ function renderCard(mod) {
   const version = mod.latest?.version || mod.version || '?';
   const byline = document.createElement('p');
   byline.className = 'byline';
-  byline.textContent = `v${version} · by ${mod.author || 'ishhodaszi'}`;
+  byline.textContent = `v${version} · by ${displayAuthor}`;
   const summary = document.createElement('p');
   summary.className = 'summary';
   summary.textContent = mod.summary || '';
@@ -77,7 +78,7 @@ async function showDetail(mod) {
   const meta = document.querySelector('#detail-meta');
   meta.replaceChildren();
   textRow('Version', mod.latest?.version || mod.version || '?');
-  textRow('Author', mod.author);
+  textRow('Author', displayAuthor);
   textRow('Categories', (mod.categories || []).join(', '));
   textRow('Game versions', (mod.games || []).join(', ').toUpperCase());
   textRow('License', mod.license);

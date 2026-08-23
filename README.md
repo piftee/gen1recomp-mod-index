@@ -1,6 +1,6 @@
-# Ishhodaszi's Gen1Recomp mod index
+# Ish's Gen1Recomp Mods
 
-A personal install feed for [Ishhodaszi's Gen1Recomp mods](https://github.com/piftee?tab=repositories&q=gen1recomp).
+A personal install feed for [Ish's Gen1Recomp mods](https://github.com/piftee?tab=repositories&q=gen1recomp).
 The catalogue contains metadata only. Each mod remains in its own source
 repository and is installed from its published GitHub release.
 
