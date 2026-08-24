@@ -2,7 +2,7 @@
   "id": "modern_pokedex_ui",
   "title": "Modern Pokedex UI",
   "author": "ishhodaszi",
-  "version": "0.1.6",
+  "version": "0.2.1",
   "categories": [
     "UI",
     "QOL"
@@ -12,9 +12,9 @@
   "tags": [
     "ui",
     "pokedex",
-    "research",
     "quality-of-life",
     "responsive",
+    "dark-mode",
     "search",
     "moves",
     "evolutions"

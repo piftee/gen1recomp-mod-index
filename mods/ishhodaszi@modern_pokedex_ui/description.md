@@ -10,4 +10,6 @@ Large portraits resolve through the same battle-sprite selection used in combat,
 
 Compact 160x144 play and common widescreen aspect ratios have dedicated layouts. Companion mods can add extra pages for real abilities, breeding, habitats, forms, held items, or other data through the provided extension hook.
 
+The regular Options screen includes a dedicated Modern Pokedex submenu for Widescreen, Backdrop, and Colours. The original light presentation and a high-contrast dark theme are available, with type colours kept as restrained accents and Pokemon artwork left undimmed.
+
 The mod changes presentation only. Native Pokedex actions, Area maps, cries, Yellow printing, save data, battle rules, and Pokemon data remain authoritative. It requires `engine_internals` to preserve those controllers while replacing their presentation.
