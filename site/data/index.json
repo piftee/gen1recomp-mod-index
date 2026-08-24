@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-24T18:08:11.580Z",
+  "generated_at": "2026-08-24T21:18:47.065Z",
   "count": 6,
   "categories": [
     "GAMEPLAY",
@@ -69,10 +69,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 355,
-        "recent": 66,
+        "total": 360,
+        "recent": 71,
         "window_days": 2,
-        "as_of": "2026-08-24T18:08:11.580Z"
+        "as_of": "2026-08-24T21:18:47.065Z"
       }
     },
     {
@@ -128,10 +128,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 889,
-        "recent": 248,
+        "total": 925,
+        "recent": 284,
         "window_days": 2,
-        "as_of": "2026-08-24T18:08:11.580Z"
+        "as_of": "2026-08-24T21:18:47.065Z"
       }
     },
     {
@@ -139,7 +139,7 @@
       "id": "modern_party_ui",
       "title": "Modern Party UI",
       "author": "ishhodaszi",
-      "version": "0.3.15",
+      "version": "0.3.21",
       "categories": [
         "UI",
         "QOL"
@@ -174,23 +174,23 @@
       "thumbnail": null,
       "description_url": "data/mods/ishhodaszi@modern_party_ui/description.md",
       "latest": {
-        "version": "0.3.19",
-        "tag": "v0.3.19",
-        "name": "Modern Party UI v0.3.19",
+        "version": "0.3.21",
+        "tag": "v0.3.21",
+        "name": "Modern Party UI v0.3.21",
         "prerelease": false,
-        "published_at": "2026-08-24T17:16:53Z",
+        "published_at": "2026-08-24T21:18:26Z",
         "zip": {
-          "name": "Modern-Party-UI-v0.3.19.zip",
-          "url": "https://github.com/piftee/gen1recomp-modern-party-ui/releases/download/v0.3.19/Modern-Party-UI-v0.3.19.zip",
-          "size": 56757
+          "name": "Modern-Party-UI-v0.3.21.zip",
+          "url": "https://github.com/piftee/gen1recomp-modern-party-ui/releases/download/v0.3.21/Modern-Party-UI-v0.3.21.zip",
+          "size": 57979
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2895,
-        "recent": 411,
+        "total": 2938,
+        "recent": 454,
         "window_days": 2,
-        "as_of": "2026-08-24T18:08:11.580Z"
+        "as_of": "2026-08-24T21:18:47.065Z"
       }
     },
     {
@@ -198,7 +198,7 @@
       "id": "modern_pc_ui",
       "title": "Modern PC UI",
       "author": "ishhodaszi",
-      "version": "0.1.3",
+      "version": "0.2.3",
       "categories": [
         "UI",
         "QOL"
@@ -233,23 +233,23 @@
       "thumbnail": null,
       "description_url": "data/mods/ishhodaszi@modern_pc_ui/description.md",
       "latest": {
-        "version": "0.2.1",
-        "tag": "v0.2.1",
-        "name": "Modern PC UI v0.2.1",
+        "version": "0.2.3",
+        "tag": "v0.2.3",
+        "name": "Modern PC UI v0.2.3",
         "prerelease": false,
-        "published_at": "2026-08-22T20:21:40Z",
+        "published_at": "2026-08-24T20:48:29Z",
         "zip": {
-          "name": "Modern-PC-UI-v0.2.1.zip",
-          "url": "https://github.com/piftee/gen1recomp-modern-pc-ui/releases/download/v0.2.1/Modern-PC-UI-v0.2.1.zip",
-          "size": 21576
+          "name": "Modern-PC-UI-v0.2.3.zip",
+          "url": "https://github.com/piftee/gen1recomp-modern-pc-ui/releases/download/v0.2.3/Modern-PC-UI-v0.2.3.zip",
+          "size": 23630
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 220,
-        "recent": 210,
+        "total": 233,
+        "recent": 223,
         "window_days": 2,
-        "as_of": "2026-08-24T18:08:11.580Z"
+        "as_of": "2026-08-24T21:18:47.065Z"
       }
     },
     {
@@ -257,7 +257,7 @@
       "id": "modern_pokedex_ui",
       "title": "Modern Pokedex UI",
       "author": "ishhodaszi",
-      "version": "0.2.1",
+      "version": "0.2.3",
       "categories": [
         "UI",
         "QOL"
@@ -267,9 +267,9 @@
       "tags": [
         "ui",
         "pokedex",
+        "research",
         "quality-of-life",
         "responsive",
-        "dark-mode",
         "search",
         "moves",
         "evolutions"
@@ -293,23 +293,23 @@
       "thumbnail": null,
       "description_url": "data/mods/ishhodaszi@modern_pokedex_ui/description.md",
       "latest": {
-        "version": "0.2.1",
-        "tag": "v0.2.1",
-        "name": "Modern Pokedex UI v0.2.1",
+        "version": "0.2.3",
+        "tag": "v0.2.3",
+        "name": "0.2.3",
         "prerelease": false,
-        "published_at": "2026-08-24T18:05:15Z",
+        "published_at": "2026-08-24T21:18:13Z",
         "zip": {
-          "name": "modern_pokedex_ui-0.2.1.zip",
-          "url": "https://github.com/piftee/gen1recomp-modern-pokedex-ui/releases/download/v0.2.1/modern_pokedex_ui-0.2.1.zip",
-          "size": 62531
+          "name": "modern_pokedex_ui-0.2.3.zip",
+          "url": "https://github.com/piftee/gen1recomp-modern-pokedex-ui/releases/download/v0.2.3/modern_pokedex_ui-0.2.3.zip",
+          "size": 64146
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 177,
+        "total": 226,
         "recent": null,
         "window_days": null,
-        "as_of": "2026-08-24T18:08:11.580Z"
+        "as_of": "2026-08-24T21:18:47.065Z"
       }
     },
     {
@@ -365,10 +365,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1799,
-        "recent": 119,
+        "total": 1810,
+        "recent": 130,
         "window_days": 2,
-        "as_of": "2026-08-24T18:08:11.580Z"
+        "as_of": "2026-08-24T21:18:47.065Z"
       }
     }
   ]
