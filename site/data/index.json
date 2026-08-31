@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-24T21:18:47.065Z",
-  "count": 6,
+  "generated_at": "2026-08-31T06:02:07.480Z",
+  "count": 7,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -22,13 +22,13 @@
       "id": "battle_info_hud",
       "title": "Battle Info HUD",
       "author": "ishhodaszi",
-      "version": "0.8.5",
+      "version": "0.9.0",
       "categories": [
         "UI",
         "QOL"
       ],
       "repo": "https://github.com/piftee/gen1recomp-battle-info-hud",
-      "summary": "Adds colour HP, EXP progress, caught markers, and clearer status and level labels to the existing native battle HUD.",
+      "summary": "Enhances the native Gen 1 and Gen 2 battle HUDs with clearer status, controls, HP, EXP, and caught information.",
       "tags": [
         "ui",
         "battle",
@@ -41,9 +41,8 @@
       "api": 2,
       "game_version": ">=0.0.0-dev <1.0.0",
       "games": [
-        "red",
-        "blue",
-        "yellow"
+        "gen1",
+        "gen2"
       ],
       "profile": "content",
       "experimental": false,
@@ -56,23 +55,23 @@
       "thumbnail": null,
       "description_url": "data/mods/ishhodaszi@battle_info_hud/description.md",
       "latest": {
-        "version": "0.8.5",
-        "tag": "v0.8.5",
-        "name": "Battle Info HUD 0.8.5",
+        "version": "0.9.0",
+        "tag": "v0.9.0",
+        "name": "Battle Info HUD 0.9.0",
         "prerelease": false,
-        "published_at": "2026-08-14T21:32:24Z",
+        "published_at": "2026-08-31T05:43:24Z",
         "zip": {
-          "name": "Battle-Info-HUD-0.8.5.zip",
-          "url": "https://github.com/piftee/gen1recomp-battle-info-hud/releases/download/v0.8.5/Battle-Info-HUD-0.8.5.zip",
-          "size": 16998
+          "name": "Battle-Info-HUD-0.9.0.zip",
+          "url": "https://github.com/piftee/gen1recomp-battle-info-hud/releases/download/v0.9.0/Battle-Info-HUD-0.9.0.zip",
+          "size": 24280
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 360,
-        "recent": 71,
-        "window_days": 2,
-        "as_of": "2026-08-24T21:18:47.065Z"
+        "total": 652,
+        "recent": 363,
+        "window_days": 8,
+        "as_of": "2026-08-31T06:02:07.480Z"
       }
     },
     {
@@ -80,13 +79,13 @@
       "id": "modern_bag_ui",
       "title": "Modern Bag UI",
       "author": "ishhodaszi",
-      "version": "0.4.1",
+      "version": "0.4.6",
       "categories": [
         "UI",
         "QOL"
       ],
       "repo": "https://github.com/piftee/gen1recomp-modern-bag-ui",
-      "summary": "Rebuilds the Bag and PC item lists as responsive pocket-based interfaces with expanded storage and two selectable skins.",
+      "summary": "Adds responsive Gen 1 Bag and PC skins plus a native four-pocket Pack and Item PC presentation for Gen 2.",
       "tags": [
         "ui",
         "inventory",
@@ -100,9 +99,8 @@
       "api": 2,
       "game_version": ">=0.0.0-dev <1.0.0",
       "games": [
-        "red",
-        "blue",
-        "yellow"
+        "gen1",
+        "gen2"
       ],
       "profile": "content",
       "experimental": false,
@@ -115,23 +113,23 @@
       "thumbnail": null,
       "description_url": "data/mods/ishhodaszi@modern_bag_ui/description.md",
       "latest": {
-        "version": "0.4.4",
-        "tag": "v0.4.4",
-        "name": "0.4.4",
+        "version": "0.4.6",
+        "tag": "v0.4.6",
+        "name": "0.4.6",
         "prerelease": false,
-        "published_at": "2026-08-24T17:57:06Z",
+        "published_at": "2026-08-31T05:41:35Z",
         "zip": {
-          "name": "modern_bag_ui-0.4.4.zip",
-          "url": "https://github.com/piftee/gen1recomp-modern-bag-ui/releases/download/v0.4.4/modern_bag_ui-0.4.4.zip",
-          "size": 42300
+          "name": "modern_bag_ui-0.4.6.zip",
+          "url": "https://github.com/piftee/gen1recomp-modern-bag-ui/releases/download/v0.4.6/modern_bag_ui-0.4.6.zip",
+          "size": 33771
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 925,
-        "recent": 284,
-        "window_days": 2,
-        "as_of": "2026-08-24T21:18:47.065Z"
+        "total": 1530,
+        "recent": 889,
+        "window_days": 8,
+        "as_of": "2026-08-31T06:02:07.480Z"
       }
     },
     {
@@ -139,13 +137,13 @@
       "id": "modern_party_ui",
       "title": "Modern Party UI",
       "author": "ishhodaszi",
-      "version": "0.3.21",
+      "version": "0.4.5",
       "categories": [
         "UI",
         "QOL"
       ],
       "repo": "https://github.com/piftee/gen1recomp-modern-party-ui",
-      "summary": "Adds responsive type-coloured party and Pokémon summary cards built from Gen 1's own font, sprites, and UI assets.",
+      "summary": "Adds responsive type-coloured party and Pokémon summary presentations for Gen 1 and Gen 2.",
       "tags": [
         "ui",
         "party",
@@ -159,9 +157,8 @@
       "api": 2,
       "game_version": ">=0.0.0-dev <1.0.0",
       "games": [
-        "red",
-        "blue",
-        "yellow"
+        "gen1",
+        "gen2"
       ],
       "profile": "content",
       "experimental": false,
@@ -174,23 +171,23 @@
       "thumbnail": null,
       "description_url": "data/mods/ishhodaszi@modern_party_ui/description.md",
       "latest": {
-        "version": "0.3.21",
-        "tag": "v0.3.21",
-        "name": "Modern Party UI v0.3.21",
+        "version": "0.4.5",
+        "tag": "v0.4.5",
+        "name": "Modern Party UI v0.4.5",
         "prerelease": false,
-        "published_at": "2026-08-24T21:18:26Z",
+        "published_at": "2026-08-31T05:43:27Z",
         "zip": {
-          "name": "Modern-Party-UI-v0.3.21.zip",
-          "url": "https://github.com/piftee/gen1recomp-modern-party-ui/releases/download/v0.3.21/Modern-Party-UI-v0.3.21.zip",
-          "size": 57979
+          "name": "Modern-Party-UI-v0.4.5.zip",
+          "url": "https://github.com/piftee/gen1recomp-modern-party-ui/releases/download/v0.4.5/Modern-Party-UI-v0.4.5.zip",
+          "size": 79834
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2938,
-        "recent": 454,
-        "window_days": 2,
-        "as_of": "2026-08-24T21:18:47.065Z"
+        "total": 4053,
+        "recent": 1569,
+        "window_days": 8,
+        "as_of": "2026-08-31T06:02:07.480Z"
       }
     },
     {
@@ -198,13 +195,13 @@
       "id": "modern_pc_ui",
       "title": "Modern PC UI",
       "author": "ishhodaszi",
-      "version": "0.2.3",
+      "version": "0.4.2",
       "categories": [
         "UI",
         "QOL"
       ],
       "repo": "https://github.com/piftee/gen1recomp-modern-pc-ui",
-      "summary": "Turns Someone's PC into one responsive party-and-box workspace with direct pickup, drop, swap, and quick transfers.",
+      "summary": "Adds responsive Gen 1 party-and-box storage and a generation-aware Gen 2 box-list presentation.",
       "tags": [
         "ui",
         "storage",
@@ -218,9 +215,8 @@
       "api": 2,
       "game_version": ">=0.0.0-dev <1.0.0",
       "games": [
-        "red",
-        "blue",
-        "yellow"
+        "gen1",
+        "gen2"
       ],
       "profile": "content",
       "experimental": false,
@@ -233,23 +229,23 @@
       "thumbnail": null,
       "description_url": "data/mods/ishhodaszi@modern_pc_ui/description.md",
       "latest": {
-        "version": "0.2.3",
-        "tag": "v0.2.3",
-        "name": "Modern PC UI v0.2.3",
+        "version": "0.4.2",
+        "tag": "v0.4.2",
+        "name": "Modern PC UI v0.4.2",
         "prerelease": false,
-        "published_at": "2026-08-24T20:48:29Z",
+        "published_at": "2026-08-31T05:43:27Z",
         "zip": {
-          "name": "Modern-PC-UI-v0.2.3.zip",
-          "url": "https://github.com/piftee/gen1recomp-modern-pc-ui/releases/download/v0.2.3/Modern-PC-UI-v0.2.3.zip",
-          "size": 23630
+          "name": "Modern-PC-UI-v0.4.2.zip",
+          "url": "https://github.com/piftee/gen1recomp-modern-pc-ui/releases/download/v0.4.2/Modern-PC-UI-v0.4.2.zip",
+          "size": 31401
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 233,
-        "recent": 223,
-        "window_days": 2,
-        "as_of": "2026-08-24T21:18:47.065Z"
+        "total": 1025,
+        "recent": 1015,
+        "window_days": 8,
+        "as_of": "2026-08-31T06:02:07.480Z"
       }
     },
     {
@@ -257,19 +253,19 @@
       "id": "modern_pokedex_ui",
       "title": "Modern Pokedex UI",
       "author": "ishhodaszi",
-      "version": "0.2.3",
+      "version": "0.2.8",
       "categories": [
         "UI",
         "QOL"
       ],
       "repo": "https://github.com/piftee/gen1recomp-modern-pokedex-ui",
-      "summary": "Turns the Pokedex into a responsive modern-retro research tool with useful species, family, stat, and move pages.",
+      "summary": "Turns the Gen 1 and Gen 2 Pokédex into a responsive research tool with species, family, stat, move, and ownership data.",
       "tags": [
         "ui",
         "pokedex",
-        "research",
         "quality-of-life",
         "responsive",
+        "dark-mode",
         "search",
         "moves",
         "evolutions"
@@ -278,9 +274,8 @@
       "api": 2,
       "game_version": ">=0.0.0-dev <1.0.0",
       "games": [
-        "red",
-        "blue",
-        "yellow"
+        "gen1",
+        "gen2"
       ],
       "profile": "content",
       "experimental": false,
@@ -293,23 +288,80 @@
       "thumbnail": null,
       "description_url": "data/mods/ishhodaszi@modern_pokedex_ui/description.md",
       "latest": {
-        "version": "0.2.3",
-        "tag": "v0.2.3",
-        "name": "0.2.3",
+        "version": "0.2.8",
+        "tag": "v0.2.8",
+        "name": "0.2.8",
         "prerelease": false,
-        "published_at": "2026-08-24T21:18:13Z",
+        "published_at": "2026-08-31T05:41:33Z",
         "zip": {
-          "name": "modern_pokedex_ui-0.2.3.zip",
-          "url": "https://github.com/piftee/gen1recomp-modern-pokedex-ui/releases/download/v0.2.3/modern_pokedex_ui-0.2.3.zip",
-          "size": 64146
+          "name": "modern_pokedex_ui-0.2.8.zip",
+          "url": "https://github.com/piftee/gen1recomp-modern-pokedex-ui/releases/download/v0.2.8/modern_pokedex_ui-0.2.8.zip",
+          "size": 77878
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 226,
+        "total": 916,
+        "recent": 690,
+        "window_days": 6,
+        "as_of": "2026-08-31T06:02:07.480Z"
+      }
+    },
+    {
+      "folder": "ishhodaszi@modern_start_menu_ui",
+      "id": "modern_start_menu_ui",
+      "title": "Modern Start Menu UI",
+      "author": "ishhodaszi",
+      "version": "0.1.16",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "repo": "https://github.com/piftee/gen1recomp-modern-start-menu-ui",
+      "summary": "Presents Gen 1 and Gen 2 START menus as a responsive phone panel while preserving every installed action and hotkey.",
+      "tags": [
+        "ui",
+        "start menu",
+        "quality-of-life",
+        "responsive",
+        "mobile",
+        "widescreen"
+      ],
+      "github": "piftee/gen1recomp-modern-start-menu-ui",
+      "api": 2,
+      "game_version": ">=0.0.0-dev <1.0.0",
+      "games": [
+        "gen1",
+        "gen2"
+      ],
+      "profile": "content",
+      "experimental": false,
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [],
+      "conflicts": [],
+      "license": "MIT",
+      "thumbnail": null,
+      "description_url": "data/mods/ishhodaszi@modern_start_menu_ui/description.md",
+      "latest": {
+        "version": "0.1.16",
+        "tag": "v0.1.16",
+        "name": "Modern Start Menu UI v0.1.16",
+        "prerelease": false,
+        "published_at": "2026-08-31T05:43:27Z",
+        "zip": {
+          "name": "modern_start_menu_ui-0.1.16.zip",
+          "url": "https://github.com/piftee/gen1recomp-modern-start-menu-ui/releases/download/v0.1.16/modern_start_menu_ui-0.1.16.zip",
+          "size": 29805
+        }
+      },
+      "update_check": "ok",
+      "downloads": {
+        "total": 308,
         "recent": null,
         "window_days": null,
-        "as_of": "2026-08-24T21:18:47.065Z"
+        "as_of": "2026-08-31T06:02:07.480Z"
       }
     },
     {
@@ -317,13 +369,13 @@
       "id": "typed_move_colors",
       "title": "Typed Move Colors",
       "author": "ishhodaszi",
-      "version": "0.4.0",
+      "version": "0.4.7",
       "categories": [
         "UI",
         "QOL"
       ],
       "repo": "https://github.com/piftee/gen1recomp-typed-move-colors",
-      "summary": "Adds responsive type-coloured move cards or native-layout move-name colours across battles, summaries, and move pickers.",
+      "summary": "Adds responsive type-coloured move cards and effectiveness cues across Gen 1 and Gen 2 battles, summaries, and move pickers.",
       "tags": [
         "ui",
         "moves",
@@ -337,9 +389,8 @@
       "api": 2,
       "game_version": ">=0.0.0-dev <1.0.0",
       "games": [
-        "red",
-        "blue",
-        "yellow"
+        "gen1",
+        "gen2"
       ],
       "profile": "content",
       "experimental": false,
@@ -352,23 +403,23 @@
       "thumbnail": null,
       "description_url": "data/mods/ishhodaszi@typed_move_colors/description.md",
       "latest": {
-        "version": "0.4.0",
-        "tag": "v0.4.0",
-        "name": "Typed Move Colors 0.4.0",
+        "version": "0.4.7",
+        "tag": "v0.4.7",
+        "name": "Typed Move Colors v0.4.7",
         "prerelease": false,
-        "published_at": "2026-08-21T05:08:27Z",
+        "published_at": "2026-08-31T05:43:27Z",
         "zip": {
-          "name": "Typed-Move-Colors-0.4.0.zip",
-          "url": "https://github.com/piftee/gen1recomp-typed-move-colors/releases/download/v0.4.0/Typed-Move-Colors-0.4.0.zip",
-          "size": 32555
+          "name": "Typed-Move-Colors-0.4.7.zip",
+          "url": "https://github.com/piftee/gen1recomp-typed-move-colors/releases/download/v0.4.7/Typed-Move-Colors-0.4.7.zip",
+          "size": 43652
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1810,
-        "recent": 130,
-        "window_days": 2,
-        "as_of": "2026-08-24T21:18:47.065Z"
+        "total": 2271,
+        "recent": 591,
+        "window_days": 8,
+        "as_of": "2026-08-31T06:02:07.480Z"
       }
     }
   ]
