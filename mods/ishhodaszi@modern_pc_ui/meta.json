@@ -2,13 +2,13 @@
   "id": "modern_pc_ui",
   "title": "Modern PC UI",
   "author": "ishhodaszi",
-  "version": "0.2.3",
+  "version": "0.4.2",
   "categories": [
     "UI",
     "QOL"
   ],
   "repo": "https://github.com/piftee/gen1recomp-modern-pc-ui",
-  "summary": "Turns Someone's PC into one responsive party-and-box workspace with direct pickup, drop, swap, and quick transfers.",
+  "summary": "Adds responsive Gen 1 party-and-box storage and a generation-aware Gen 2 box-list presentation.",
   "tags": [
     "ui",
     "storage",
@@ -21,11 +21,7 @@
   "github": "piftee/gen1recomp-modern-pc-ui",
   "api": 2,
   "game_version": ">=0.0.0-dev <1.0.0",
-  "games": [
-    "red",
-    "blue",
-    "yellow"
-  ],
+  "games": ["gen1", "gen2"],
   "profile": "content",
   "experimental": false,
   "permissions": [

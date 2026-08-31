@@ -2,13 +2,13 @@
   "id": "modern_pokedex_ui",
   "title": "Modern Pokedex UI",
   "author": "ishhodaszi",
-  "version": "0.2.3",
+  "version": "0.2.8",
   "categories": [
     "UI",
     "QOL"
   ],
   "repo": "https://github.com/piftee/gen1recomp-modern-pokedex-ui",
-  "summary": "Turns the Pokedex into a responsive modern-retro research tool with useful species, family, stat, and move pages.",
+  "summary": "Turns the Gen 1 and Gen 2 Pokédex into a responsive research tool with species, family, stat, move, and ownership data.",
   "tags": [
     "ui",
     "pokedex",
@@ -22,11 +22,7 @@
   "github": "piftee/gen1recomp-modern-pokedex-ui",
   "api": 2,
   "game_version": ">=0.0.0-dev <1.0.0",
-  "games": [
-    "red",
-    "blue",
-    "yellow"
-  ],
+  "games": ["gen1", "gen2"],
   "profile": "content",
   "experimental": false,
   "permissions": [
